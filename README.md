@@ -17,6 +17,9 @@ Extensible design to add more categories and questions.
 
 # Technologies Used:
 
+
+
+
 # Programming Language: Python
 
 Libraries: re (regular expressions) for question matching
@@ -39,4 +42,9 @@ Libraries: re (regular expressions) for question matching
 Ensure Python 3 is installed on your system.
 
 Run the script using python chatbot.py.
+
+
+# Screenshots
+
+I[image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Logo%20of%20the%20bot.png)
 
