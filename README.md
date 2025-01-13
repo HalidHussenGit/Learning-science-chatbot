@@ -46,5 +46,5 @@ Run the script using python chatbot.py.
 
 # Screenshots
 
-I[image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Logo%20of%20the%20bot.png)
+[image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Logo%20of%20the%20bot.png)
 
