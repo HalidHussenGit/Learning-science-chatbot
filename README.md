@@ -1,10 +1,10 @@
 # Learning-science-chatbot
 Title: Science Chatbot
 
-Description:
+# Description:
 This is a simple Python-based chatbot designed to answer common science-related questions. It uses a predefined dataset to provide responses to queries about physics, chemistry, biology, and general science. The chatbot also includes a fallback mechanism for unrecognized questions, making it user-friendly and interactive.
 
-Features:
+# Features:
 
 Interactive and easy-to-use chatbot interface.
 
@@ -15,14 +15,14 @@ Fallback responses for unrecognized queries.
 Extensible design to add more categories and questions.
 
 
-Technologies Used:
+# Technologies Used:
 
-Programming Language: Python
+# Programming Language: Python
 
 Libraries: re (regular expressions) for question matching
 
 
-Usage:
+# Usage:
 
 1. Clone the repository.
 
@@ -34,7 +34,7 @@ Usage:
 
 
 
-Setup Instructions:
+# Setup Instructions:
 
 Ensure Python 3 is installed on your system.
 
