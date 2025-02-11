@@ -18,9 +18,11 @@ Extensible design to add more categories and questions.
 
 
 
-# Programming Language: Python
+# Programming Language:
+ Python
 
-Libraries: re (regular expressions) for question matching
+#Libraries: 
+re (regular expressions) for question matching
 
 
 # Usage:
