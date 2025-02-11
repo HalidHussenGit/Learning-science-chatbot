@@ -47,5 +47,7 @@ Run the script using python chatbot.py.
 # Screenshots
 
 ![image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Logo%20of%20the%20bot.png)
+
+# Home page
 ![image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Home%20page.jpg)
 
