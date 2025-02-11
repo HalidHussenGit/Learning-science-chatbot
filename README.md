@@ -15,8 +15,6 @@ Fallback responses for unrecognized queries.
 Extensible design to add more categories and questions.
 
 
-# Technologies Used:
-
 
 
 
