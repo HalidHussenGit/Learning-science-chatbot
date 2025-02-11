@@ -52,4 +52,7 @@ Run the script using python chatbot.py.
 ![image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Home%20page.jpg)
 # Biology page
 ![image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/Biology.jpg)
+# Maths page
+![image alt](https://github.com/HalidHussenGit/Learning-science-chatbot/blob/main/maths.jpg)
+
 
